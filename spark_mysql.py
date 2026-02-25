@@ -9,10 +9,10 @@ import os
 
 DB_HOST = "192.168.0.170"
 DB_PORT = "3306"
-DB_NAME = "sales_analytics_db"
+DB_NAME = "bigdata"
 DB_USER = "asset"
 DB_PASSWORD = "Asset123"
-TABLE_NAME = "employees"
+TABLE_NAME = "transactions"  # change if needed
 
 
 # Construct the JDBC URL
